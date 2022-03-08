@@ -50,6 +50,19 @@ nav #icon{
     cursor: pointer;
     display: none;
 }
+@media (max-width: 1400px){
+    label.logo{
+        font-size: 15px;
+        margin-left: 20px;
+        float: left;
+    }
+    nav ul{
+        margin-right: 20px;
+    }
+    nav a{
+        font-size: 17px;
+    }
+}
 @media (max-width: 909px){
     label.logo{
         font-size: 15px;
