@@ -103,7 +103,7 @@ img{
     height:25px;
 }
 section{
-    background: url(main_image.jpg) no-repeat;
+    background: url(SACK-Hall-scaled.jpg) no-repeat;
     background-size: cover;
     height: calc(100vh - 80px);
 }
